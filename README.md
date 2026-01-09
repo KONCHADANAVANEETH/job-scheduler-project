@@ -213,7 +213,8 @@ AI tools were used **responsibly** during development for learning and debugging
 
 ### Model
 
-* GPT-5.2
+* ### Model
+* GPT-4.1
 
 ### Where AI Helped
 
